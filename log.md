@@ -11,10 +11,19 @@
 
 ### Day 2: April 1st, 2021
 
+**Today's Progress**: Started a Data Visualization project. It involves exploring data through visual representations and closely associated with data analysis.
+
+**Thoughts** Now that I'm starting to understand Python better I'm able to read and work through the material a lot faster. Today I got about halfway through a project that I started on the same day. It feels good to make this type of jump right now and plan on doubling down on more projects next week.
+
+**Link(s) to work**
+1. [Data Visualization Project](https://github.com/edercodes/data_visualization)
+
+
+### Day 3: April 2nd, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
 
 **Link(s) to work**
 1. 
-2. 
