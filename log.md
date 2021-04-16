@@ -64,13 +64,13 @@
 1.  [Data Visualization Project](https://github.com/edercodes/data_visualization)
 2.  [Web Application Project](https://github.com/edercodes/web_applications)
 
+--
 
+### Day 1: April 16th, 2021
 
-### Day 7: April 9th, 2021
+**Today's Progress**: Continued working on The Odin Project. 
 
-**Today's Progress**: 
-
-**Thoughts** 
+**Thoughts** I decided to start my 100 days over again because I didn't code two days out of the last week and I want to make a commitment to the rules I set out in the beginning. Moving forward, I will code at least one hour every day until the 100 days are complete. Aside from that, I completed two projects in Python and started a wep app project using Django last week into this week. This week I decided to transition to coursework in The Odin Project because it has the most comprehensive guides I've found so far. The past two days I completed the Introductory course and today learned about hwo the Internet works.
 
 **Link(s) to work**
-1. 
+1. [The Odin Project](https://www.theodinproject.com)
