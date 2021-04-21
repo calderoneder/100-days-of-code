@@ -29,9 +29,6 @@
 1.  [Data Visualization Project](https://github.com/edercodes/data_visualization)
 
 
-
-
-
 ### Day 4: April 6th, 2021
 
 **Today's Progress**: 3-Day Staycation. Worked on the Data Visualization Project.
@@ -40,7 +37,6 @@
 
 **Link(s) to work**
 1.  [Data Visualization Project](https://github.com/edercodes/data_visualization)
-
 
 
 ### Day 5: April 7th, 2021
@@ -103,11 +99,11 @@
 1. [The Odin Project](https://www.theodinproject.com)
 
 
-### Day : April th, 2021
+### Day 5: April 20th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Started the Git section of TOP. Decided to buy a monitor to help learning process.
 
-**Thoughts:** 
+**Thoughts:** I've been using Github for a while but today was the first time I installed Git on my computer. I had never really done too any research besides surface-level reading in articles and online. Although its a lot of new terminology that I'm not grasping immediately, learning this now will be useful down the line. Also, decided to buy a monitor to help my workflow and I will be probably need one soon anyway. Spent some time in the afternoon on this once I got distracted.
 
 **Link(s) to work**
 1. [The Odin Project](https://www.theodinproject.com)
