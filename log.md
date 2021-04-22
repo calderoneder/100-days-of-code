@@ -121,9 +121,9 @@
 
 ### Day : April th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Completed a simple Git project. Started the Front-End Development section.
 
-**Thoughts:** 
+**Thoughts:** Although the monotony of tutorials is tiring after I had been coding already with Python for a while, I can definitely see the benefit of learning the foundations of programming. I already want to start coding because I do think that working on projects is the best way to learn and definitely the best way I was able to grasp the material when learning Python. Regardless, I'll get around to the projects soon and this knowledge will help long-term. I was able to complete a simple Git project to learn how to best use Git and Github together. Still have a a lot to learn about Git but I plan on exploring projects using git and will try to incorporate simple Git tools to my workflow.
 
 **Link(s) to work**
 1. [The Odin Project](https://www.theodinproject.com)
