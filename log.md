@@ -109,11 +109,11 @@
 1. [The Odin Project](https://www.theodinproject.com)
 
 
-### Day : April th, 2021
+### Day 6: April 21st, 2021
 
-**Today's Progress:**
+**Today's Progress:** Didn't have a lot time to work on Top this morning. 
 
-**Thoughts:** 
+**Thoughts:** I spent most of my day helping out my dad with something that he needed for his restaurant and it took away from coding time during the day which is when I'm able to get most of my work done. Still was able to move on to other sections of the TOP Git tutorials. 
 
 **Link(s) to work**
 1. [The Odin Project](https://www.theodinproject.com)
