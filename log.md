@@ -119,7 +119,7 @@
 1. [The Odin Project](https://www.theodinproject.com)
 
 
-### Day : April th, 2021
+### Day 7: April 22nd, 2021
 
 **Today's Progress:** Completed a simple Git project. Started the Front-End Development section.
 
