@@ -129,6 +129,16 @@
 1. [The Odin Project](https://www.theodinproject.com)
 
 
+### Day 8: April 23rd, 2021
+
+**Today's Progress:** Completed two assignments from the Front End section.
+
+**Thoughts:** Wasn't able to code as much today but finished a couple of assignments from the Front End section of TOP. Tomorrow I will make up for where I missed today.
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
 ### Day : April th, 2021
 
 **Today's Progress:**
@@ -139,6 +149,7 @@
 1. [The Odin Project](https://www.theodinproject.com)
 
 
+
 ### Day : April th, 2021
 
 **Today's Progress:**
@@ -147,6 +158,48 @@
 
 **Link(s) to work**
 1. [The Odin Project](https://www.theodinproject.com)
+
+
+
+
+### Day : April th, 2021
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
+
+
+
+### Day : April th, 2021
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
+
+
+
+
+### Day : April th, 2021
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
+
 
 
 ### Day : April th, 2021
