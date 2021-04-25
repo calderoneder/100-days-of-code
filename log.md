@@ -141,9 +141,9 @@
 
 ### Day : April th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Completed two more assignments from the Front End section of The Odin Project.
 
-**Thoughts:** 
+**Thoughts:** The past two days I've had the least amount of time I've been able to put into completing TOP over the last week. Regardeless, I was able to do an hour so that's enough to complete my daily goal.
 
 **Link(s) to work**
 1. [The Odin Project](https://www.theodinproject.com)
