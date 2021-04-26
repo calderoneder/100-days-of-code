@@ -139,7 +139,7 @@
 1. [The Odin Project](https://www.theodinproject.com)
 
 
-### Day : April th, 2021
+### Day 9: April 24th, 2021
 
 **Today's Progress:** Completed two more assignments from the Front End section of The Odin Project.
 
@@ -150,11 +150,11 @@
 
 
 
-### Day : April th, 2021
+### Day 10: April 25th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Completed the HTML and part of the CSS basics section.
 
-**Thoughts:** 
+**Thoughts:** Its Sunday so I made time in the morning for a couple hours but there is usualy too much going on in the house to focus for longer than a short while. Still wanted to get on froa bit and make some progress. Back at it tomorrow.
 
 **Link(s) to work**
 1. [The Odin Project](https://www.theodinproject.com)
