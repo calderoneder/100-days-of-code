@@ -162,24 +162,21 @@
 
 
 
-### Day : April th, 2021
+### Day 11: April 26th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Finally completed the reading portions for HTML, CSS, and JS sections of TOP.
 
-**Thoughts:** 
+**Thoughts:** Excited to finally complete the terminology sections for HTML, CSS, and JS. This took me longer than it should have but still important to learn so I just pushed through and will come to review the notes I took once I get a better handle of coding projects.
 
 **Link(s) to work**
 1. [The Odin Project](https://www.theodinproject.com)
 
 
+### Day 12: April 27th, 2021
 
+**Today's Progress:** Completed first section of the Responsive Web Design certificate section from FreeCodeCamp.
 
-
-### Day : April th, 2021
-
-**Today's Progress:**
-
-**Thoughts:** 
+**Thoughts:** The Odin Project curates the best (in their minds) resources to learn coding from across the internet. Coinicidentally, the resource they are using now was the other option that I was considering to learn coding with which is FreeCodeCamp. Although its one section, I know deciding on which to choose took hours of research to narrow down which was the best but looking back, you just have to go. Decide on one and just get to work. The HTML was easy and now I'm working through the CSS section. Excited to finally be working on projects and not just reading.
 
 **Link(s) to work**
 1. [The Odin Project](https://www.theodinproject.com)
