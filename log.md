@@ -186,6 +186,90 @@
 
 
 
+### Day 13: April 28th, 2021
+
+**Today's Progress:** Finished the basic CSS section from FreeCodeCamp's Web Responsive Deisgn curriculum. Completed more than half of Applied Visual Design section.
+
+**Thoughts:** It feels a lot better to start coding and not just read tutorials and terminology. I feel like I am progressing and feel comfortable about these languages moving forward.
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
+
+
+
+### Day : April th, 2021
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
+
+### Day : April th, 2021
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
+
+
+### Day : April th, 2021
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
+
+
+### Day : April th, 2021
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
+
+
+### Day : April th, 2021
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
+
+
+### Day : April th, 2021
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
+
+
 ### Day : April th, 2021
 
 **Today's Progress:**
@@ -207,3 +291,65 @@
 
 **Link(s) to work**
 1. [The Odin Project](https://www.theodinproject.com)
+
+
+
+
+
+### Day : April th, 2021
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
+
+### Day : April th, 2021
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
+
+
+### Day : April th, 2021
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
+
+
+### Day : April th, 2021
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
+
+
+### Day : April th, 2021
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
