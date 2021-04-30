@@ -184,8 +184,6 @@
 
 
 
-
-
 ### Day 13: April 28th, 2021
 
 **Today's Progress:** Finished the basic CSS section from FreeCodeCamp's Web Responsive Deisgn curriculum. Completed more than half of Applied Visual Design section.
@@ -199,11 +197,11 @@
 
 
 
-### Day : April th, 2021
+### Day 14: April 29th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Completed three parts from the Responsive Web Design section of Free Code Camp's curriculum.
 
-**Thoughts:** 
+**Thoughts:** I started keeping track of things I completed as way to log what I'm doing and stay focused throughout the day and it seems to be working. Today I completed the Applied Visual Design, Applied Visibility, Web Design Principles, and CSS Flexbox assignments from the Responsive Web Design section of FreeCodeCamp's Web Development Certificate program. I blasted through this today because I'm ready to start working on projects and will start first thing tomorrow morning. Keeping track of completed tasks as a log has been useful this week.
 
 **Link(s) to work**
 1. [The Odin Project](https://www.theodinproject.com)
