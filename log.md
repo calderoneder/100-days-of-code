@@ -208,11 +208,11 @@
 
 
 
-### Day : April th, 2021
+### Day 15: April 30th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Completed all sections from the prepwork for HTML/CSS sections of TOP. Started the "Build A Tribute Page" project.
 
-**Thoughts:** 
+**Thoughts:** Finally finished the last part of the HTML/CSS sections of TOP to be able to move on to projects. I started the "Build A Tribute Page" project and got through most of setting up the structure and now I just need to make it look nice with CSS. It was less challenging than I thought but I had to change what I was working on in the afternoon. I'm joining a bootcamp in June so I'm starting an evening prep course that I think can be useful to learning JS and the bootcamp curriculum. The next couple of days I'll be focusing on the prep course to get ready for Monday night and then back to The Odin Project curriculum on Monday.
 
 **Link(s) to work**
 1. [The Odin Project](https://www.theodinproject.com)
