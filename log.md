@@ -220,6 +220,81 @@
 
 
 
+### Day 16: May 1st, 2021
+
+**Today's Progress:** I started a YouTube video to give an overview of JS.
+
+**Thoughts:** I thought that getting an intro tutorial would be worth it but realized later that it was not as useful as I thought. Learned a bunch of things I didn't know but it has less immediate utility than I anticipated.
+
+**Link(s) to work**
+1. [JavaScript for Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+
+
+
+
+### Day 17: May 2nd, 2021
+
+**Today's Progress:** Only had time for one hour of coding. Sundays are spent with family.
+
+**Thoughts:** I forced myself to code for one hour before goingt o bed to show my commitment to compelting these 100 days.
+
+**Link(s) to work**
+1. [JavaScript for Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+
+
+
+
+### Day 18: May 3rd, 2021
+
+**Today's Progress:** Completed YouTube video. Reviewed prep work for bootcamp. Attending evening bootcamp prep course.
+
+**Thoughts:** The video was thorough enough to give me introduction to the syntax of the language but I need to do those coding challenges to prepare myself for the technical interview for the bootcamp. Looking forward to getting back at it tomorrow.
+
+
+**Link(s) to work**
+1. [JavaScript for Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+2. [Rithm School Prep](https://www.rithmschool.com/courses/javascript)
+
+
+
+
+### Day : April th, 2021
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
+
+
+
+### Day : April th, 2021
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
+
+
+
+### Day : April th, 2021
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com)
+
+
+
 ### Day : April th, 2021
 
 **Today's Progress:**
@@ -264,80 +339,6 @@
 
 **Link(s) to work**
 1. [The Odin Project](https://www.theodinproject.com)
-
-
-
-
-### Day : April th, 2021
-
-**Today's Progress:**
-
-**Thoughts:** 
-
-**Link(s) to work**
-1. [The Odin Project](https://www.theodinproject.com)
-
-
-
-
-
-### Day : April th, 2021
-
-**Today's Progress:**
-
-**Thoughts:** 
-
-**Link(s) to work**
-1. [The Odin Project](https://www.theodinproject.com)
-
-
-
-
-
-### Day : April th, 2021
-
-**Today's Progress:**
-
-**Thoughts:** 
-
-**Link(s) to work**
-1. [The Odin Project](https://www.theodinproject.com)
-
-
-
-### Day : April th, 2021
-
-**Today's Progress:**
-
-**Thoughts:** 
-
-**Link(s) to work**
-1. [The Odin Project](https://www.theodinproject.com)
-
-
-
-
-### Day : April th, 2021
-
-**Today's Progress:**
-
-**Thoughts:** 
-
-**Link(s) to work**
-1. [The Odin Project](https://www.theodinproject.com)
-
-
-
-
-### Day : April th, 2021
-
-**Today's Progress:**
-
-**Thoughts:** 
-
-**Link(s) to work**
-1. [The Odin Project](https://www.theodinproject.com)
-
 
 
 
