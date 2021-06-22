@@ -258,11 +258,11 @@
 
 
 
-### Day : April th, 2021
+### Day 19: June 22nd, 2021
 
-**Today's Progress:**
+**Today's Progress:** Started the Survey form from The Odin Project. Skipped to focus on JS more. Completed the Developer tools tutorials.
 
-**Thoughts:** 
+**Thoughts:** I took a lenghty break because I had gotten to the point where I wasn't sure what exactly to focus on. I wanted to join a bootcamp this year but realized that I was trying to cram too much at once and decided to take a step back to better assess a path moving forward. I have a new focus to still complete my goals this year but with a more calculated approach overall. I started the Survey form project but realized that it is not as useful as I initially thought and moved on to tutorials about how to use developer tools to make edits to a website's code. My goal is stay consistent everyday and not look back.
 
 **Link(s) to work**
 1. [The Odin Project](https://www.theodinproject.com)
