@@ -271,14 +271,14 @@
 
 
 
-### Day : April th, 2021
+### Day 20: July 13th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Completed the Intro Git Project.
 
-**Thoughts:** 
+**Thoughts:** I went back to review Git because it's been a while since I've reviewed the material and needed a refresher. I took an extended break because I've been considering taking a full-time role and other commitments that held me back from coding. Moving forward, I don't anticipate anything stopping me from committing more time to coding in general. Needed to review how Git works to be able to start the new project tomorrow. No more breaks.
 
 **Link(s) to work**
-1. [The Odin Project](https://www.theodinproject.com)
+1. [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/practicing-git-basics)
 
 
 
